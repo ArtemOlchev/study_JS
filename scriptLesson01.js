@@ -1,4 +1,4 @@
-const money = 100;
+const money = 1000;
 var income;
 let addExpenses;
 let deposit;
